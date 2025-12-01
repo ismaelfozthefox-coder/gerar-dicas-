@@ -1,2 +1,2 @@
-# gerar-dicas-
-gerador de dicas super maneiro
+# Gerador de dicas
+Apenas um gerador de dicas 
