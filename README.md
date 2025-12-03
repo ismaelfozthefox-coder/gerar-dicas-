@@ -6,8 +6,6 @@
 ## :mens: Qual o alvo do projeto?
 este projeto é dedicado a alunos com dificuldade de estudar.
 
----
-
 ## :computer: Qual tecnologia este projeto usa?
 **este projeto utiliza html, java script e css**
 
